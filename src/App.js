@@ -22,7 +22,7 @@ function App() {
 
   // Vegetable List
   const vegetables = [
-  "Arbi",
+  "arbi",
   "Beet Root",
   "beerakai / turai",
   "Bharat Brinjel",
